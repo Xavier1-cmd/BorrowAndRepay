@@ -1,8 +1,12 @@
 # Borrow And Repay 借還錢程式[專案練習]
-參考教程:
+
+## Update 2024-08-14
+  - **完成題目要求功能**
+
+### 參考教程：
   - [小山的 C# 教學-第21課-借還錢模擬小程式][(http://www.codebind.com/c-sharp/make-calculator-c-windows-form-application/)](https://slmtsite.blogspot.com/2013/07/c-21.html)
 
-YouTube:
+### YouTube：
   1. [Part1][(https://youtu.be/iJqB6UsM-hs?si=gzLbhPRydn5Oky38)](https://youtu.be/FlEdRULznbM?si=u57NgHKdrH3sDE21)
   2. [Part2][(https://youtu.be/X67eC9jf2uE?si=UUW0udTj20oy2QIx)](https://youtu.be/w2vmllTvgTo?si=oBWuJYiC51AWCK0E)
 
